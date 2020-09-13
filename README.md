@@ -1,7 +1,5 @@
 # Multivariate-Normality-Test
-========================================================
-           VERY IMPORTANT NOTE
-========================================================
+
 If a sample is drawn from k-dimensional (k-variate)
 space, the sample should be a vector of shape (k,).
 
@@ -19,4 +17,3 @@ Thus, input matrix (n-by-k) should be as follows
 M = np.array([[1, 2, 3, 4, 5],
               [6, 7, 8, 9, 0],
               [3, 4, 5, 6, 7]])
-=======================================================
